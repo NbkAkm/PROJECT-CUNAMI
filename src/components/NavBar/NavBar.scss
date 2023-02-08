@@ -1,0 +1,90 @@
+.nav-bar{
+    background-color: #fff;
+    border-radius: 20px 20px 0px 0px;
+    height: 98px;
+
+    padding-left: 120px;
+    padding-right: 120px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    .logo{
+        padding: 0;
+        margin: 0;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+
+        img{
+            width: 62px;
+            height: 57px;
+        }
+    }
+    .logo-text{
+        text-align: center;
+        padding: 0;
+        margin: 0;
+        width: 147px;
+        height: 38px;
+        margin-left: 5px;
+
+        p{
+            padding: 0;
+            margin: 0;
+        }
+
+        .cunami{
+            font-family: 'Comfortaa';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 20px;
+            color: #252525;
+            text-align: center;
+        }
+
+        .food{
+            font-family: 'Comfortaa';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 16px;
+            text-align: center;
+            color: #979797;
+        }
+    }
+
+    .links{
+        width: 58.5%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        a{
+
+            font-family: 'Comfortaa';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 20px;
+            cursor: pointer;
+            color: #252525;
+        }
+
+        a:hover{
+            color: #FF2525;
+        }
+    }
+
+    .icons{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        gap: 36.6px;
+    }
+
+}

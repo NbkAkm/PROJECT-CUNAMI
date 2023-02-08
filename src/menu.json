@@ -1,0 +1,26 @@
+[
+  {
+    "image": "sets.png",
+    "title": "Сеты"
+  },
+  {
+    "image": "sushi.png",
+    "title": "Суши"
+  },
+  {
+    "image": "rolls.png",
+    "title": "Роллы"
+  },
+  {
+    "image": "combo.png",
+    "title": "Комбо"
+  },
+  {
+    "image": "pizza.png",
+    "pizza": "Пиццы"
+  },
+  {
+    "image": "drinks.png",
+    "title": "Напитки"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "image": "combo_photo.png",
+    "title": "Комбо Хирогана",
+    "quantity": "40 шт роллов пеперони + маргарита",
+    "cost": "1250 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "combo_photo.png",
+    "title": "Якитория",
+    "quantity": "56 шт роллов пицца + нагетсы, фри",
+    "cost": "1500 сом",
+    "stickerNew": "starNew.png"
+  },
+  {
+    "image": "combo_photo.png",
+    "title": "Нигири",
+    "quantity": "32 шт роллов пицца куриная + наггетсы",
+    "cost": "1190 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "combo_photo.png",
+    "title": "Секай",
+    "quantity": "40 шт роллов пицца шашлычная + Pepsi 1.5 л",
+    "cost": "1300 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "combo_photo.png",
+    "title": "Трио",
+    "quantity": "три пиццы + Pepsi 1 л.",
+    "cost": "1000 сом",
+    "sticker": "starHit.png"
+  }
+]

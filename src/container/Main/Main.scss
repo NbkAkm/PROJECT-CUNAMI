@@ -1,0 +1,184 @@
+.main{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(180deg, #ABE2FC 0%, #ABE2FC 29.35%, #ABE2FC 52.52%, #FFFFFF 100%);
+    height: 130vh;
+
+    .main-content{
+        margin-top: 30px;
+        display: flex;
+        justify-content: flex-start;
+        flex-direction: row;
+        align-items: flex-start;
+        height: 593px;
+        padding-left: 120px;
+        padding-right: 120px;
+        
+    }
+
+    .main-content-text{
+        width: 633px;
+        height: 356px;
+
+        h1{
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 48px;
+            line-height: 56px;
+            color: #252525;
+
+            .red{
+                color: #FF2525;
+                font-size: 64px;
+                line-height: 75px;
+            }
+
+            .bold{
+                font-size: 64px;
+                line-height: 75px;
+            }
+        }
+
+        button{
+            // margin-top: 77px;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            // padding: 20px 40px;
+
+            width: 349px;
+            height: 76px;
+            background: #FF2525;
+            border-radius: 20px;
+            border: none;
+            font-family: 'Comfortaa';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 32px;
+            line-height: 36px;
+            color: #FFFFFF;
+        }
+    }
+
+    .carousel{
+        // display: flex;
+        // justify-content: space-between;
+        // flex-direction: row;
+        // align-items: flex-end;
+        // margin-right: 50px;
+    }
+    .speed-dial{
+        position: relative;
+        left: 11%;
+        top: 43%;
+    }
+
+    .benefits{
+        border-top: 3px solid #252525;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-start;
+        padding: 0px;
+        gap: 150px;
+        
+        height: 147px;
+        
+        margin-left: 120px;
+        margin-right: 120px;
+
+        .fast{
+            margin: 0;
+            margin-top: 40px;
+            padding: 0;
+            h4{
+                margin: 0;
+                padding: 0;
+                font-family: 'Comfortaa';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 27px;
+
+                color: #FF2525;
+            }
+            p{
+                margin: 0;
+                padding: 0;
+                width: 286px;
+                font-family: 'Comfortaa';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 18px;
+                line-height: 20px;
+                display: flex;
+                align-items: center;
+
+                color: rgba(0, 0, 0, 0.7);
+            }
+        }
+        .delicious{
+            margin: 0;
+            margin-top: 40px;
+            padding: 0;
+            h4{
+                margin: 0;
+                padding: 0;
+                font-family: 'Comfortaa';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 27px;
+
+                color: #FF2525;
+            }
+            p{
+                margin: 0;
+                padding: 0;
+                width: 286px;
+                font-family: 'Comfortaa';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 18px;
+                line-height: 20px;
+                display: flex;
+                align-items: center;
+
+                color: rgba(0, 0, 0, 0.7);
+            }
+        }
+        .free-delivery{
+            margin: 0;
+            margin-top: 40px;
+            padding: 0;
+            h4{
+                margin: 0;
+                padding: 0;
+                font-family: 'Comfortaa';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 27px;
+
+                color: #FF2525;
+            }
+            p{
+                margin: 0;
+                padding: 0;
+                
+                width: 270px;
+                font-family: 'Comfortaa';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 18px;
+                line-height: 20px;
+                display: flex;
+                align-items: center;
+
+                color: rgba(0, 0, 0, 0.7);
+            }
+        }
+    }
+}

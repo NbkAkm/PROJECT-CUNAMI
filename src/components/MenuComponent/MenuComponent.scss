@@ -1,0 +1,32 @@
+.menu{
+    background: #252525;
+    box-shadow: 0px 4px 11px rgba(180, 180, 180, 0.25);
+    border-radius: 0px;
+    padding-left: 202px;
+    padding-right: 202px;
+
+    .nav-links{
+        height: 70px;
+        width: 1036px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        gap: 79px; 
+        
+        a{
+            font-family: 'Comfortaa';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 20px;
+            line-height: 22px;
+            cursor: pointer;
+            color: #FFFFFF;
+        }
+        a:hover{
+            color: #FF2525;
+        }
+    }
+    
+
+}

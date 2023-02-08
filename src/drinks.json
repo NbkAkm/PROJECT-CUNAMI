@@ -1,0 +1,37 @@
+[
+  {
+    "image": "beverages.png",
+    "title": "Coca-Cola",
+    "quantity": "(шт)",
+    "cost": "350 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "beverages.png",
+    "title": "Fanta",
+    "quantity": "(шт)",
+    "cost": "350 сом",
+    "stickerNew": "starNew.png"
+  },
+  {
+    "image": "beverages.png",
+    "title": "Pepsi",
+    "quantity": "(шт)",
+    "cost": "390 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "beverages.png",
+    "title": "Sprite",
+    "quantity": "(шт)",
+    "cost": "410 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "beverages.png",
+    "title": "Asu",
+    "quantity": "(шт)",
+    "cost": " 410 сом",
+    "sticker": "starHit.png"
+  }
+]

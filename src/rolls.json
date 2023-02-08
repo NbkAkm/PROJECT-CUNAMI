@@ -1,0 +1,135 @@
+[
+  {
+    "image": "rollforblock.png",
+    "title": "Оливье Темпура",
+    "quantity": "(0шт)",
+    "cost": "280 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "rollforblock.png",
+    "title": "Темпура Осака",
+    "quantity": "(0шт)",
+    "cost": "280 сом",
+    "stickerNew": "starNew.png"
+  },
+  {
+    "image": "rollforblock.png",
+    "title": "Калифорния",
+    "quantity": "(0шт)",
+    "cost": "310 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "rollforblock.png",
+    "title": "Нежная курица",
+    "quantity": "(0шт)",
+    "cost": "250 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "rollforblock.png",
+    "title": "Лава Ролл",
+    "quantity": "(0шт)",
+    "cost": "250 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "rollforblock.png",
+    "title": "Унаги Маки",
+    "quantity": "(0шт)",
+    "cost": "150 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "rollforblock.png",
+    "title": "Капа Маки",
+    "quantity": "(0шт)",
+    "cost": "120 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "rollforblock.png",
+    "title": "Фила Де Люкс",
+    "quantity": "(0шт)",
+    "cost": "310 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "rollforblock.png",
+    "title": "Фила в Конжуте",
+    "quantity": "(0шт)",
+    "cost": "270 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "rollforblock.png",
+    "title": "Филадельфия",
+    "quantity": "(0шт)",
+    "cost": "270 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "rollforblock.png",
+    "title": "Фудзияма",
+    "quantity": "(0шт)",
+    "cost": "270 сом",
+    "stickerPer": "starPercent.png"
+  },
+  {
+    "image": "rollforblock.png",
+    "title": "Яки Ролл",
+    "quantity": "(0шт)",
+    "cost": "200 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "rollforblock.png",
+    "title": "Аригато",
+    "quantity": "(0шт)",
+    "cost": "280 сом",
+    "stickerPer": "starPercent.png"
+  },
+  {
+    "image": "rollforblock.png",
+    "title": "Чикен Темпура",
+    "quantity": "(0шт)",
+    "cost": "280 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "rollforblock.png",
+    "title": "Темпура Чукка",
+    "quantity": "(0шт)",
+    "cost": "280 сом",
+    "stickerPer": "starPercent.png"
+  },
+  {
+    "image": "rollforblock.png",
+    "title": "Гункан",
+    "quantity": "(0шт)",
+    "cost": "89 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "rollforblock.png",
+    "title": "Сяки Маки",
+    "quantity": "(0шт)",
+    "cost": "140 сом",
+    "stickerPer": "starPercent.png"
+  },
+  {
+    "image": "rollforblock.png",
+    "title": "Чука Маки",
+    "quantity": "(0шт)",
+    "cost": "150 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "rollforblock.png",
+    "title": "Канада",
+    "quantity": "(0шт)",
+    "cost": "330 сом",
+    "stickerPer": "starPercent.png"
+  }
+]

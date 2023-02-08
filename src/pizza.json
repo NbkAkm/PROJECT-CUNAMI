@@ -1,0 +1,37 @@
+[
+  {
+    "image": "picca.png",
+    "title": "Маргарита",
+    "quantity": "(описание, ингредиенты)",
+    "cost": "350 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "picca.png",
+    "title": "Пепперони",
+    "quantity": "(описание, ингредиенты)",
+    "cost": "350 сом",
+    "stickerNew": "starNew.png"
+  },
+  {
+    "image": "picca.png",
+    "title": "Куриная пицца",
+    "quantity": "(описание, ингредиенты)",
+    "cost": "390 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "picca.png",
+    "title": "Шашлычная",
+    "quantity": "(описание, ингредиенты)",
+    "cost": "410 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "picca.png",
+    "title": "Четыре сыра",
+    "quantity": "(описание, ингредиенты)",
+    "cost": " 410 сом",
+    "sticker": "starHit.png"
+  }
+]

@@ -1,0 +1,127 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@500;600;700&display=swap");
+.pizzas-wrap {
+  background: linear-gradient(139.79deg, #c3ebff 11.29%, #fefefe 45.12%);
+  padding-top: 82px;
+}
+.pizzas-title-block {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+.pizzas-name-title {
+  width: 138px;
+  height: 54px;
+  color: #ff2525;
+  font-family: "Comfortaa";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 54px;
+}
+.pizzas-card-block {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: center;
+  gap: 20px 45px;
+  margin: 0px 120px;
+  //   margin-bottom: 80px;
+}
+.pizzas-card {
+  width: 370px;
+  height: 507px;
+  background: #ffffff;
+  box-shadow: 4px 4px 11px rgba(82, 82, 82, 0.25);
+  border-radius: 20px;
+}
+.pizzas-star-hit {
+  padding: 18px 21px 0px 281px;
+}
+.pizzas-img-block {
+  padding: 0px 42px 0px 39px;
+}
+.pizzas-img {
+  position: relative;
+  bottom: 60px;
+}
+.pizzas-content-block {
+  margin-left: 32px;
+  position: relative;
+  bottom: 25px;
+}
+
+.pizzas-title {
+  width: 300px;
+  height: 66px;
+  font-family: "Comfortaa";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 33px;
+  color: #252525;
+  margin: 0px;
+  position: relative;
+  bottom: 30px;
+}
+
+.pizzas-quantity {
+  width: 71px;
+  height: 20px;
+  font-family: "Comfortaa";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  color: #252525;
+  position: relative;
+  bottom: 50px;
+}
+.pizzas-quantity1 {
+  width: 71px;
+  height: 20px;
+  font-family: "Comfortaa";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  color: #252525;
+}
+
+.cost-and-button {
+  // padding-top: 31px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin-right: 10px;
+  position: relative;
+  bottom: 30px;
+}
+.pizzas-cost {
+  width: 170px;
+  height: 29px;
+  font-family: "Comfortaa";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 29px;
+  color: #252525;
+  text-align: start;
+}
+.pizzas-button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 10px 20px;
+  width: 198px;
+  height: 56px;
+  background: #0166e8;
+  border-radius: 10px;
+  font-family: "Comfortaa";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 36px;
+  color: #ffffff;
+  border: none;
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "image": "setsblock.png",
+    "title": "Суши лосось",
+    "quantity": "(1шт)",
+    "cost": "89 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "setsblock.png",
+    "title": "Гункан",
+    "quantity": "(1шт)",
+    "cost": "89 сом",
+    "stickerNew": "starNew.png"
+  },
+  {
+    "image": "setsblock.png",
+    "title": "Гункан",
+    "quantity": "(1шт)",
+    "cost": "89 сом",
+    "sticker": "starHit.png"
+  }
+]

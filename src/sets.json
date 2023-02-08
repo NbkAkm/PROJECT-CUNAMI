@@ -1,0 +1,79 @@
+[
+  {
+    "image": "setsblock.png",
+    "title": "Сет темпура",
+    "quantity": "48(шт)",
+    "cost": "1500 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "setsblock.png",
+    "title": "Ями-ями",
+    "quantity": "40(шт)",
+    "cost": "1300 сом",
+    "stickerNew": "starNew.png"
+  },
+  {
+    "image": "setsblock.png",
+    "title": "Сет хот",
+    "quantity": "48(шт)",
+    "cost": "1300 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "setsblock.png",
+    "title": "Сет дует",
+    "quantity": "48(шт)",
+    "cost": "1500 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "setsblock.png",
+    "title": "Сет студент",
+    "quantity": "32(шт)",
+    "cost": "899 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "setsblock.png",
+    "title": "Пикник",
+    "quantity": "112(шт)",
+    "cost": "2000 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "setsblock.png",
+    "title": "Сет “Запечённый ходаки”",
+    "quantity1": "32(шт)",
+    "cost": "1399 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "setsblock.png",
+    "title": "Сет “Сердце Цунами”",
+    "quantity2": "90(шт)",
+    "cost": "2235 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "setsblock.png",
+    "title": "Сет “Весеннее настроение”",
+    "quantity3": "40(шт)",
+    "cost": "1150 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "setsblock.png",
+    "title": "Сет cunami",
+    "quantity": "62(шт)",
+    "cost": "1770 сом",
+    "sticker": "starHit.png"
+  },
+  {
+    "image": "setsblock.png",
+    "title": "Сет Американо",
+    "quantity": "40(шт)",
+    "cost": "1230 сом",
+    "stickerPer": "starPercent.png"
+  }
+]
